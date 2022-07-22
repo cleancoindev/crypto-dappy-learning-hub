@@ -28,7 +28,7 @@
     "gatsby-plugin-mdx": "^2.10.1",
     "gatsby-plugin-react-i18next": "^1.1.1",
     "gatsby-plugin-s3": "^0.3.8",
-    "gatsby-plugin-sharp": "^3.10.2",
+    "gatsby-plugin-sharp": "^3.13.0",
     "gatsby-plugin-styled-components": "^4.10.0",
     "gatsby-source-filesystem": "^3.10.0",
     "i18next": "^21.3.1",
